@@ -6,7 +6,7 @@ I'm **Simply-huMAN (Maloth Aditya)**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ....(will be updated soon)
 - 🌱 I’m currently learning Javascript along with React
 - 👯 I’m looking to collaborate on front-end with someone like you to create a project
 - 📫 How to reach me: malothaditya006@gmail.com
