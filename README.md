@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 🤹‍♀️ Skills:
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 
 🔢 Github Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-huMAN&theme=blue-green)](https://github.com/Simply-huMAN)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-huMAN&layout=compact&theme=blue-green)](https://github.com/Simply-huMAN)
 
-
-[![Made with](http://ForTheBadge.com/images/badges/built-with-love.svg)](#)
 
