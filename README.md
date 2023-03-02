@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 🔢 Github Stats:
 
+![Maloth Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simply-huMAN&show_icons=true&bg_color=00000000)
+
 [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-huMAN&layout=compact&theme=blue-green)](https://github.com/Simply-huMAN)
 
 
