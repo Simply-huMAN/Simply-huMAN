@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 > - 📫 How to reach me: malothaditya006@gmail.com
 > - ⚡ Fun fact: I'm not a human being
 
+<!-- <div align="center">
+   <a href="https://profile-counter.glitch.me/Simply-huMAN/count.svg">![Visitor Count](https://profile-counter.glitch.me/Simply-huMAN/count.svg)</a>
+</div> -->
+**Visitors Count**: ![Visitor Count](https://profile-counter.glitch.me/Simply-huMAN/count.svg)
+
 🤹‍♀️ Skills:
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -38,6 +43,7 @@ Here are some ideas to get you started:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+
 
 🔢 Github Stats:
 
