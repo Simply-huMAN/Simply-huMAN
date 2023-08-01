@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm  **Maloth Aditya** , pre-final year undergrad at National Institute of Technology Rourkela, pursuing Computer Science and Engineering.
+I'm  **Maloth Aditya** , final year undergrad at National Institute of Technology Rourkela, pursuing Computer Science and Engineering.
 I'm a passionate developer. I do software development (C++), front-end and design stuff online. I like making websites from scratch.
 
 Here are some ideas to get you started:
